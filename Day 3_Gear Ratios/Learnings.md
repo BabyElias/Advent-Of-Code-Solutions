@@ -1,0 +1,2 @@
+- Solved part 1 by first marking all the numbers that are adjacent to special characters by turning their adjacent digits to corresponding alphabet equivalents. Like a->0, b->1 and so on. Then, traversed again to find all marked numbers.
+- Solved part 2 in single traversal itself. Once a digit adjacent to * was found, traversed entire number associated with that digit and marked it's digits as 'a' to prevent traversing them again since the count of numbers was important here.

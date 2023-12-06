@@ -9,5 +9,5 @@ It's that time of the year again! Here are my solutions for this year's puzzles 
 | 03  | [Gear Ratios](/Day%203_Gear%20Ratios/)    |   🌟   |   🌟   |
 | 04  | [ScratchCards](/Day%204_ScratchCards/)    |   🌟   |   🌟   |
 | 05 | Not Solved  |     |      |
-| 06  | [Wait For It](/Day%206_Wait For It/)    |   🌟   |   🌟   |
+| 06  | [Wait For It](/Day%206_Wait%20For%20It/)    |   🌟   |   🌟   |
  
